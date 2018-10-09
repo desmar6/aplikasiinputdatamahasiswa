@@ -1,0 +1,10 @@
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+E:\Semester 3\Visual Studio\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
